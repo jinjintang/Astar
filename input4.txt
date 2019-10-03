@@ -1,0 +1,13 @@
+meeting, m1 
+meeting, m2 
+meeting, m3
+meeting, m4
+meeting, m5 
+constraint,m3 before m2
+constraint,m4 same-day m3
+constraint,m5 one-hour-between m4
+domain, m1, wed, hard 
+domain, m2, early-morning, soft 
+domain, m3, early-morning, soft
+domain, m4, early-week,    soft
+domain, m5, wed, hard

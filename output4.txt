@@ -1,0 +1,6 @@
+m1 : wed 2pm
+m2 : fri 9am
+m3 : wed 9am
+m4 : wed 12am
+m5 : wed 10am
+cost: 2
